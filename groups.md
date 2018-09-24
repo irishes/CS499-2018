@@ -35,3 +35,11 @@ Group repository: <https://github.com/NAU-OSS/CS499-Group03>
 * Melody Pressley [melod-y](https://github.com/melod-y)
 
 Group repository: <https://github.com/NAU-OSS/Group-5>
+
+### Group 6
+* Brandon Kindrick - (https://github.com/irishes)
+* Chris Combs - (https://github.com/chrisryancombs)
+* Nathan Payton - (https://github.com/nip5)
+* Michael - ()
+
+Group repository: <https://github.com/irishes/CS499>
